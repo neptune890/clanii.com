@@ -1,0 +1,50 @@
+body{padding: 0 0; margin: 0; background:#000000; text-align: center}
+.select {font-family: Verdana; color:#867443; font-size:10px; background:#000; width:167px; height:22px;}
+.hom1 {font-family: Verdana; color:#76786b; font-size:11px;}
+.hom2 {font-family: Verdana; color:#987c39; font-size:11px;}
+.hom3 {font-family: Verdana; font-size:10px; font-weight:bold; color:#000;}
+.hom4 {font-family: Verdana; color:#987c39; font-size:11px; font-weight:bold;}
+.hom5 {font-family: Verdana; font-size:11px; font-weight:bold; color:#987c39;}
+a.hom2{font-family: Verdana; font-size:11px; color:#987c39; line-height: 18px; text-decoration:underline}
+a.hom4 {font-family: Verdana; color:#987c39; font-size:11px; font-weight:bold; text-decoration:none}
+.cont1 {font-family: Verdana; color:#ff9900; font-size:11px; background:#3b3c35; width:200px; height:22px}
+.cont2 {font-family: Verdana; color:#ff9900; font-size:11px; background:#3b3c35; width:446px; height:130px;}
+
+div.leftad {
+position: absolute;
+left: 50%;
+margin-left: -555px;
+margin-top: 164px;
+}
+
+input{
+border: 0px;
+border-style: solid;
+border-color: #666666;
+padding: 5px;
+}
+
+input.submitbutton{
+background-color: transparent;
+background-image: URL('img/contacts_submit.gif');
+height: 18px;
+width: 52px;
+}
+
+input.submitbutton:hover{
+background-color: transparent;
+background-image: URL('img/contacts_submit.gif');
+}
+
+input.resetbutton{
+background-color: transparent;
+background-image: URL('img/contacts_clear.jpg');
+height: 18px;
+width: 52px;
+}
+
+input.resetbutton:hover{
+background-color: transparent;
+background-image: URL('img/contacts_clear.jpg');
+}
+
